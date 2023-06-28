@@ -4,8 +4,8 @@
 </div>
 
 
-- 🔭 I’m currently Third yr student at NIT Bhopal CSE'24.
-- 🌱 I’m currently learning Bash and python scripting for Linux.
+- 🔭 I’m currently Final yr student at NIT Bhopal CSE'24.
+- 🌱 I’m currently learning Python and JavaScript.
 - 📫 How to reach me: [somya16agrawal@gmail.com](mailto:somya16agrawal@gmail.com).
 
 
